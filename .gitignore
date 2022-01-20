@@ -1,0 +1,6 @@
+/pojo/target/classes/
+/.idea/
+/rabbitmq/.mvn/wrapper/
+/rabbitmq/mvnw
+/rabbitmq/mvnw.cmd
+
